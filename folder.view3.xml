@@ -4,7 +4,6 @@
 <PluginAuthor>chodeus, VladoPortos and scolcipitato</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:</Category>
-<Date>2026-02-16</Date>
 <Name>FolderView3</Name>
 <Description>
 Note!: Before installation, backup your current configuration in FolderView settings (JSON files from VMs and Docker) and any custom CSS and remove the old FolderView plugin.
