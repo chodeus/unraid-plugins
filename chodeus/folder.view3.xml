@@ -12,5 +12,5 @@ Getting Started: A new button named "Add Folder" will appear at the bottom of th
 </Description>
 <Support>https://forums.unraid.net/topic/197223-plugin-folderview3/</Support>
 <Icon>https://raw.githubusercontent.com/chodeus/folder.view3/main/img/folder-icon.png</Icon>
-<IconFA>fa-folder-open-o</IconFA>
+<IconFA>folder-open-o</IconFA>
 </Containers>
