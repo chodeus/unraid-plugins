@@ -6,9 +6,10 @@
 <Category>Tools:</Category>
 <Name>FolderView3</Name>
 <Description>
+This is to look and feel like the original FolderView plugin, you may need to make updates to your custom CSS once installed, if you would like me to review your custom CSS prior please post a link in the support thread. 
 Note!: Before installation, backup your current configuration in FolderView settings (JSON files from VMs and Docker) and any custom CSS and remove the old FolderView plugin.
 FolderView3 lets you create folders for grouping Dockers and VMs together to help with organization. Especially useful if you're using docker-compose.
-Getting Started: A new button named "Add Folder" will appear at the bottom of the docker and VM tab(s) next to "Add Container", depending on whether they are enabled in Settings or not.
+Getting Started: A new button named "Add Folder" will appear at the bottom of the docker and VM tab.
 </Description>
 <Support>https://forums.unraid.net/topic/197223-plugin-folderview3/</Support>
 <Icon>https://raw.githubusercontent.com/chodeus/folder.view3/main/img/folder-icon.png</Icon>
