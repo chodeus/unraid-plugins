@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/chodeus/appdata.cleanup.ng/main/plugins/appdata.cleanup.ng.plg</PluginURL>
+<PluginAuthor>chodeus, based on Squidly271's CA Cleanup Appdata</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:</Category>
+<Name>AppdataCleanupNG</Name>
+<Description>
+A modernized revival of Squid's (Andrew Zawadzki) CA Cleanup Appdata, brought up to date for current Unraid (6.4+/7.x) where the original no longer runs.
+Finds appdata folders left behind by removed Docker containers and lets you review their sizes and delete the ones you no longer need.
+Note!: Deletion is permanent - always review the folders the plugin offers before deleting. Deletes are confined to the appdata share and never cross a mount boundary.
+Beta: orphan detection, delete-safety, and install are verified on current Unraid; custom appdata pools, ZFS dataset deletion, and Docker Compose coverage still need real-world testing - reports welcome in the support thread.
+Getting Started: after installing, open Settings -&gt; Cleanup Appdata.
+</Description>
+<Support>https://forums.unraid.net/topic/199565-plugin-appdata-cleanup-ng/</Support>
+<Icon>https://raw.githubusercontent.com/chodeus/appdata.cleanup.ng/main/source/appdata.cleanup.ng/usr/local/emhttp/plugins/appdata.cleanup.ng/images/appdata.cleanup.ng.png</Icon>
+<IconFA>paint-brush</IconFA>
+</Containers>
