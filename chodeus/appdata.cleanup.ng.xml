@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <PluginURL>https://raw.githubusercontent.com/chodeus/appdata.cleanup.ng/main/plugins/appdata.cleanup.ng.plg</PluginURL>
-<PluginAuthor>chodeus, based on Squidly271's CA Cleanup Appdata</PluginAuthor>
+<PluginAuthor>chodeus</PluginAuthor>
 <Beta>True</Beta>
 <Category>Tools:</Category>
 <Name>AppdataCleanupNG</Name>
