@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/chodeus/ZFS-Master-NG/main/zfs.master.plg</PluginURL>
+<PluginAuthor>chodeus, dlang123 and IkerSaint</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>ZFS Master NG</Name>
+<Description>
+ZFS Master NG shows your ZFS pools, datasets and snapshots on the Main tab and lets you manage them there. It carries on IkerSaint's ZFS Master and dlang123's Unraid 7.3 port, installs over ZFS Master and keeps your settings.
+Create, rename, promote, destroy and edit datasets; take, roll back, clone, hold and delete snapshots; browse a snapshot's files or see what changed since it in Snapshots Admin.
+Replicate datasets to another pool or ZFS Master NG server, once or on a schedule, keeping only the newest snapshots if you like. Lock and unlock encrypted datasets, and rewrite files so new compression settings apply (Unraid 7.3+).
+Optional alerts for pool health problems and stale snapshots. Diagnostics makes one zip for bug reports, with dataset names replaced by tokens.
+Note!: Renaming, editing, destroying and deleting folders need Destructive Mode in the plugin settings. Destroy, rollback and snapshot deletes show what they will remove first.
+Getting Started: after installing, your pools appear on the Main tab. Settings are under Settings -&gt; ZFS Master NG.
+</Description>
+<MinVer>6.9.2</MinVer>
+<Requires>ZFS: built into Unraid 6.12 and later; on 6.9.2 to 6.11 install the ZFS plugin first.</Requires>
+<Support>https://forums.unraid.net/topic/122261-plugin-zfs-master/</Support>
+<Icon>https://raw.githubusercontent.com/chodeus/ZFS-Master-NG/main/zfs.master/images/zfs.master.png</Icon>
+<IconFA>database</IconFA>
+</Containers>
